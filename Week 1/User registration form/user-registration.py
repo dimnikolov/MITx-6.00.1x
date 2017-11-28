@@ -1,3 +1,10 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Tue Nov 28 15:05:16 2017
+
+@author: Dimitar Nikolov
+"""
+
 currentYear = 2017
 
 def registration():

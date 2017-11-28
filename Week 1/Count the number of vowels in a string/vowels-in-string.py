@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 14:55:40 2017
 
-@author: dimitar.stoyanov
+@author: Dimitar Nikolov
 """
 
 string = input('Enter any word or sentence: ')

@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 15:05:16 2017
 
-@author: dimitar.stoyanov
+@author: Dimitar Nikolov
 """
 
 s = 'alicebobobjohnsmithbart'
