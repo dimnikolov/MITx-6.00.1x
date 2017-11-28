@@ -2,7 +2,7 @@
 """
 Created on Tue Nov 28 16:34:04 2017
 
-@author: dimitar.stoyanov
+@author: Dimitar Nikolov
 """
 
 def zenOfPython():
