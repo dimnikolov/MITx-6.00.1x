@@ -1,2 +1,2 @@
 # MITx-6.00.1x
-My notes and exercises from the MITx 6.00.1x course (Introduction to Computer Science and Programming Using Python) on edX.
+I am taking the MITx 6.00.1x Introduction to Computer Science and Programming Using Python course on edX. This repo contains solutions to some of the problems from the course (sorry, I have no intent to turn this into a cheat sheet), as well as experiments and scripts that I've made on my own. They are sorted by weeks (determined by the course contents) and in folders (by script title). You are free to browse and use them as you wish. For me, this repo is merely an exercise in good programming habits [mostly frequent commits and thorough annotations].
