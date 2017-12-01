@@ -2,7 +2,7 @@
 """
 Created on Fri Dec  1 10:53:23 2017
 
-@author: dimitar.stoyanov
+@author: Dimitar Nikolov
 """
 
 ans = 0
