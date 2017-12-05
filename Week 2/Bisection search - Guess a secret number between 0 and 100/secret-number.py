@@ -2,7 +2,7 @@
 """
 Created on Wed Dec  6 01:40:30 2017
 
-@author: Dimitar Nikolovl
+@author: Dimitar Nikolov
 """
 
 # This Python program asks the user to guess a number between 0 and 100.
